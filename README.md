@@ -15,6 +15,8 @@ supermarket itu bisa berjalan dengan lancar.
   
 # FLOW CHART
 
+![FLOW](https://user-images.githubusercontent.com/116862353/213507132-bd018110-4be1-441c-a57a-4a0ec9bc5de7.png)
+
 # PENJELASAN
   - TERDAPAT METHOD ADD LIST ITEM - > USER MEMASUKAN ITEM
   - TERDAPAT METHOD UPDATE LIST ITEM - > MELAKUKAN UPDATE HARGA DAN JUMLAH BARANG
