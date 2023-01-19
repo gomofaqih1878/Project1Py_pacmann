@@ -1,4 +1,4 @@
-#Background Project
+# Background Project
 
 Andi adalah seorang pemilik supermarket besar di salah satu kota di Indonesia. Andi memiliki
 rencana untuk melakukan perbaikan proses bisnis, yaitu Andi akan membuat sistem kasir yang
@@ -9,7 +9,7 @@ tersebut. Setelah Andi melakukan riset, ternyata Andi memiliki masalah, yaitu An
 membutuhkan Programmer untuk membuatkan fitur - fitur agar bisa sistem kasir self-service di
 supermarket itu bisa berjalan dengan lancar.
 
-#Requirement 
+## Requirement 
   - VSCODE
   - Python Programming
   
