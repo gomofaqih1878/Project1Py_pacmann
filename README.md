@@ -19,4 +19,5 @@ supermarket itu bisa berjalan dengan lancar.
 
 # TESTING
  - ADD LIST ITEM
- ![INPUT](https://user-images.githubusercontent.com/116862353/213503565-c56a9886-1892-4941-882c-ede650c2aa05.png)
+
+![INPUT](https://user-images.githubusercontent.com/116862353/213503565-c56a9886-1892-4941-882c-ede650c2aa05.png)
