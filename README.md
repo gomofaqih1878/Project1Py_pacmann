@@ -34,6 +34,17 @@ supermarket itu bisa berjalan dengan lancar.
  
 ![UPDATE](https://user-images.githubusercontent.com/116862353/213504048-31067f46-dca2-4c21-9d07-6d5893839131.png)
 
+  - DELETE
+  ## Untuk Fitur Delete Ini Terbagi Menjadi 2 Yaitu
+  
+      - Delete All List Item -> Hapus Semua List Item
+      
+![delete all](https://user-images.githubusercontent.com/116862353/213509985-0ae92e07-2dc4-4d18-bc30-b56dde38aa34.png)
+
+      - Delete List Item -> Menghapus Satu Item Yang Diinginkan
+      
+![DELETE](https://user-images.githubusercontent.com/116862353/213509903-69f339e4-4e58-49e9-afdc-74d907f4f426.png)
+
   - VIEW
   
 ![VIEW](https://user-images.githubusercontent.com/116862353/213504089-f6da1b23-557a-4f55-8dfc-62b8046690e0.png)
